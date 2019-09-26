@@ -6,6 +6,6 @@ Simply click a .ipynb file to view the codes.
 
 If the .ipynb files are not viewable, you may access them through these links:
 
-https://nbviewer.jupyter.org/github/julesnotjools/thesis-filipino-pos-tagger/blob/master/BLSTMPOST_Training.ipynb
-https://nbviewer.jupyter.org/github/julesnotjools/thesis-filipino-pos-tagger/blob/master/BLSTMPOST_Testing.ipynb
-https://nbviewer.jupyter.org/github/julesnotjools/thesis-filipino-pos-tagger/blob/master/t_SNE_Word_Embedding_Visualization.ipynb
+- https://nbviewer.jupyter.org/github/julesnotjools/thesis-filipino-pos-tagger/blob/master/BLSTMPOST_Training.ipynb
+- https://nbviewer.jupyter.org/github/julesnotjools/thesis-filipino-pos-tagger/blob/master/BLSTMPOST_Testing.ipynb
+- https://nbviewer.jupyter.org/github/julesnotjools/thesis-filipino-pos-tagger/blob/master/t_SNE_Word_Embedding_Visualization.ipynb
